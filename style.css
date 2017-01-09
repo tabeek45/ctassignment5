@@ -1,0 +1,59 @@
+*{margin: 0 auto;
+	padding: 0;}
+
+body {
+	background: url("http://cdn.wallpapersafari.com/5/99/1GOVZs.jpg");
+	background-color: #878787;
+	text-align: center;
+	color: white;
+
+	
+
+}
+.content{font-family: "Comfortaa";}
+
+h1 {
+	font-size:80px;
+	text-transform: uppercase;
+
+}
+p{font-size: 20px;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+}
+
+a{
+	text-decoration: none;
+    font-size: 20px;
+    display: inline-block;
+    padding: 15px;
+    color: white;
+    border-radius: 9px;
+    opacity: .9;
+    margin: 14px;
+        border: black;
+    border-style: solid;
+    border-width: 6px;
+}
+.btn1{
+	background: #1A8276;
+
+}
+.btn2{
+	background: #596166;
+}
+img{    max-width: 25%;}
+
+.socialsection{
+	background: black;
+	height: 100%;
+	float: left;
+	width: 100px
+}
+
+.fbfollow{
+	position: fixed;
+    top: 50%;
+    left: 1%;
+    transform: translate(0, -50%) ;
+}
